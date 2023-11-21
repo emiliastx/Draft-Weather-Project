@@ -1,0 +1,27 @@
+body {
+  max-width: 900px;
+  margin: 0 auto;
+}
+h1 {
+  padding-top: 15px;
+}
+
+.weather-temperature {
+  font-size: 50px;
+  padding: 25px;
+}
+.future-weather-type {
+  font-size: 30px;
+  padding-top: 2px;
+}
+.card-body {
+  background-color: rgb(200, 226, 205);
+}
+.card {
+  text-align: center;
+}
+
+.precipitation,
+.wind {
+  text-align: left;
+}
